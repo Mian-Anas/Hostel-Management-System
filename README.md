@@ -87,7 +87,7 @@ ofstream
 
 Step 1: Clone Repository
 
-git clone https://github.com/your-username/hostel-management-system.git
+git clone https://github.com/Mian-Anas/Hostel-Management-System.git
 
 Step 2: Open Project
 
