@@ -1,4 +1,4 @@
-koHOSTEL MANAGEMENT SYSTEM
+HOSTEL MANAGEMENT SYSTEM
 
 Project Description:
 This project is a Hostel Management System developed in C++ using Object-Oriented Programming concepts. The system allows students to reserve hostel beds, manage student records, and store data using file handling.
