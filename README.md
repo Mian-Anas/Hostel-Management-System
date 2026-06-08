@@ -161,6 +161,7 @@ This project helps students understand:
 - Anas Ilyas
 - Muhammad Azan Faraz
 - Muhammad Haseeb ul Hassan
+- Muhammad Abdullah Zulfiqar
 
 ---
 
