@@ -33,10 +33,9 @@ This system allows students to reserve hostel beds, store student information, a
 
 Hostel-Management-System/
 │
-├── hms2.cpp          # Main source code
-├── Hostel.txt        # Stores hostel information
-├── Student.txt       # Stores student records
-└── README.md         # Project documentation
+|--  HostelManagement.cpp   # Main source code 
+|--  HostelManagement.h     #custom library include all classes
+|-- README.md         # Project documentation
 
 ---
 
@@ -100,7 +99,7 @@ Open the project in:
 
 Step 3: Compile
 
-g++ hms2.cpp -o hostel
+g++ HostelManagement.cpp -o hostel
 
 Step 4: Run
 
